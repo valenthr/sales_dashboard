@@ -1,5 +1,5 @@
 # Sales Dashboard
-
+## All dashboard - [here](https://drive.google.com/file/d/1skvLCcnj6aG-NJFF7e1C19wgs23HE19N/view?usp=sharing)
 ## Overview
 This Power BI dashboard provides an insightful analysis of sales data. It is designed to support decision-making for project managers and the logistics director by offering key metrics and interactive visualizations.
 
